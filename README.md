@@ -13,3 +13,5 @@ Instructors: Brian Kulis and Kate Saenko. [Course syllabus](https://docs.google.
 [Problem Set 3](https://github.com/kunhe/cs591s2/blob/master/pset3/pset3.ipynb)
 
 [Problem Set 4](https://github.com/kunhe/cs591s2/blob/master/pset4/pset4.ipynb)
+
+[Problem Set 5](https://github.com/kunhe/cs591s2/blob/master/pset5/pset5.ipynb)
